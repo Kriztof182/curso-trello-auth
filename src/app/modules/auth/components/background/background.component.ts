@@ -4,11 +4,8 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-background',
   templateUrl: './background.component.html',
 })
-export class BackgroundComponent implements OnInit {
+export class BackgroundComponent  {
 
-  constructor() { }
 
-  ngOnInit(): void {
-  }
 
 }
